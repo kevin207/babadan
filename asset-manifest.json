@@ -1,21 +1,26 @@
 {
   "files": {
-    "main.css": "/babadan/static/css/main.6e7d0bca.css",
-    "main.js": "/babadan/static/js/main.0ca34495.js",
+    "main.css": "/babadan/static/css/main.8226941b.css",
+    "main.js": "/babadan/static/js/main.fcf5ca9e.js",
+    "static/media/pakis.jpg": "/babadan/static/media/pakis.d54eb18bcbd0d83756e7.jpg",
+    "static/media/perabuan.jpg": "/babadan/static/media/perabuan.0bf87c09e5f451c96a3c.jpg",
+    "static/media/pura.jpg": "/babadan/static/media/pura.bd504d410cc3a7107f9a.jpg",
     "static/media/beranda.jpg": "/babadan/static/media/beranda.49879b30f0300dcc2f8a.jpg",
+    "static/media/embung.jpg": "/babadan/static/media/embung.8c0e743d1bffeb25fd21.jpg",
     "static/media/vismis.png": "/babadan/static/media/vismis.22260d8664d94c784fde.png",
     "static/media/logo.png": "/babadan/static/media/logo.594c64b6f3c596eed285.png",
     "static/media/organisasi.jpg": "/babadan/static/media/organisasi.43a5e152662bc353bdc2.jpg",
     "static/media/peta_wilayah.png": "/babadan/static/media/peta_wilayah.4b9086adade0044266bd.png",
+    "static/media/wisata.svg": "/babadan/static/media/wisata.00f4e2927335c7de2006.svg",
     "static/media/sejarah.svg": "/babadan/static/media/sejarah.726641c308f33c064135.svg",
     "static/media/wilayah.svg": "/babadan/static/media/wilayah.73cce5cf7fe40451beab.svg",
     "static/media/potensi.svg": "/babadan/static/media/potensi.f76a8cfe7e329f3532a3.svg",
     "index.html": "/babadan/index.html",
-    "main.6e7d0bca.css.map": "/babadan/static/css/main.6e7d0bca.css.map",
-    "main.0ca34495.js.map": "/babadan/static/js/main.0ca34495.js.map"
+    "main.8226941b.css.map": "/babadan/static/css/main.8226941b.css.map",
+    "main.fcf5ca9e.js.map": "/babadan/static/js/main.fcf5ca9e.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e7d0bca.css",
-    "static/js/main.0ca34495.js"
+    "static/css/main.8226941b.css",
+    "static/js/main.fcf5ca9e.js"
   ]
 }
