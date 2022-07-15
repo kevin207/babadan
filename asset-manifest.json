@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/babadan/static/css/main.3e57e803.css",
-    "main.js": "/babadan/static/js/main.d132e7ac.js",
+    "main.js": "/babadan/static/js/main.7e17fa4b.js",
     "static/media/beranda.jpg": "/babadan/static/media/beranda.49879b30f0300dcc2f8a.jpg",
     "static/media/vismis.png": "/babadan/static/media/vismis.22260d8664d94c784fde.png",
     "static/media/logo.png": "/babadan/static/media/logo.594c64b6f3c596eed285.png",
@@ -12,10 +12,10 @@
     "static/media/potensi.svg": "/babadan/static/media/potensi.f76a8cfe7e329f3532a3.svg",
     "index.html": "/babadan/index.html",
     "main.3e57e803.css.map": "/babadan/static/css/main.3e57e803.css.map",
-    "main.d132e7ac.js.map": "/babadan/static/js/main.d132e7ac.js.map"
+    "main.7e17fa4b.js.map": "/babadan/static/js/main.7e17fa4b.js.map"
   },
   "entrypoints": [
     "static/css/main.3e57e803.css",
-    "static/js/main.d132e7ac.js"
+    "static/js/main.7e17fa4b.js"
   ]
 }
