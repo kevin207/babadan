@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/babadan/static/css/main.f5aaddd1.css",
-    "main.js": "/babadan/static/js/main.1bad4783.js",
+    "main.css": "/babadan/static/css/main.2c514d11.css",
+    "main.js": "/babadan/static/js/main.f87e679d.js",
     "static/media/pakis.jpg": "/babadan/static/media/pakis.d54eb18bcbd0d83756e7.jpg",
     "static/media/perabuan.jpg": "/babadan/static/media/perabuan.0bf87c09e5f451c96a3c.jpg",
     "static/media/pura.jpg": "/babadan/static/media/pura.bd504d410cc3a7107f9a.jpg",
+    "static/media/1.png": "/babadan/static/media/1.d2f712d11ae979ca39b8.png",
     "static/media/beranda.jpg": "/babadan/static/media/beranda.49879b30f0300dcc2f8a.jpg",
+    "static/media/2.png": "/babadan/static/media/2.105baaaa2ccade1a3183.png",
     "static/media/embung.jpg": "/babadan/static/media/embung.8c0e743d1bffeb25fd21.jpg",
     "static/media/vismis.png": "/babadan/static/media/vismis.22260d8664d94c784fde.png",
     "static/media/logo.png": "/babadan/static/media/logo.594c64b6f3c596eed285.png",
     "static/media/organisasi.jpg": "/babadan/static/media/organisasi.43a5e152662bc353bdc2.jpg",
     "static/media/bumdes-organisasi.jpg": "/babadan/static/media/bumdes-organisasi.e73dc524a686eb6322a6.jpg",
     "static/media/peta_wilayah.png": "/babadan/static/media/peta_wilayah.4b9086adade0044266bd.png",
+    "static/media/berita.svg": "/babadan/static/media/berita.532f1a4f3aad18d69182.svg",
     "static/media/video.svg": "/babadan/static/media/video.694e3658b4e269e182c8.svg",
     "static/media/wisata.svg": "/babadan/static/media/wisata.4ede37814be818b368b5.svg",
     "static/media/bumdes.svg": "/babadan/static/media/bumdes.b1ba4fffdc569bbc67f3.svg",
@@ -20,11 +23,11 @@
     "static/media/potensi.svg": "/babadan/static/media/potensi.f76a8cfe7e329f3532a3.svg",
     "static/media/layanan.svg": "/babadan/static/media/layanan.620047dd9ab1005fb228.svg",
     "index.html": "/babadan/index.html",
-    "main.f5aaddd1.css.map": "/babadan/static/css/main.f5aaddd1.css.map",
-    "main.1bad4783.js.map": "/babadan/static/js/main.1bad4783.js.map"
+    "main.2c514d11.css.map": "/babadan/static/css/main.2c514d11.css.map",
+    "main.f87e679d.js.map": "/babadan/static/js/main.f87e679d.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5aaddd1.css",
-    "static/js/main.1bad4783.js"
+    "static/css/main.2c514d11.css",
+    "static/js/main.f87e679d.js"
   ]
 }
