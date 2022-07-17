@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/babadan/static/css/main.2c514d11.css",
-    "main.js": "/babadan/static/js/main.f87e679d.js",
+    "main.css": "/babadan/static/css/main.5ad0a5d5.css",
+    "main.js": "/babadan/static/js/main.6da25a7a.js",
     "static/media/pakis.jpg": "/babadan/static/media/pakis.d54eb18bcbd0d83756e7.jpg",
     "static/media/perabuan.jpg": "/babadan/static/media/perabuan.0bf87c09e5f451c96a3c.jpg",
     "static/media/pura.jpg": "/babadan/static/media/pura.bd504d410cc3a7107f9a.jpg",
@@ -23,11 +23,11 @@
     "static/media/potensi.svg": "/babadan/static/media/potensi.f76a8cfe7e329f3532a3.svg",
     "static/media/layanan.svg": "/babadan/static/media/layanan.620047dd9ab1005fb228.svg",
     "index.html": "/babadan/index.html",
-    "main.2c514d11.css.map": "/babadan/static/css/main.2c514d11.css.map",
-    "main.f87e679d.js.map": "/babadan/static/js/main.f87e679d.js.map"
+    "main.5ad0a5d5.css.map": "/babadan/static/css/main.5ad0a5d5.css.map",
+    "main.6da25a7a.js.map": "/babadan/static/js/main.6da25a7a.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c514d11.css",
-    "static/js/main.f87e679d.js"
+    "static/css/main.5ad0a5d5.css",
+    "static/js/main.6da25a7a.js"
   ]
 }
